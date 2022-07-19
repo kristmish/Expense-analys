@@ -1,0 +1,11 @@
+Purpose: develop report for accounting and planning vacation.
+
+Work performed:
+- created google form for completion in order to collect necessary information for analyze
+   https://docs.google.com/forms/d/1S-9gihDmNyWWGqOhjeoI5LemHQn41SMbq_CR03hurpI/edit?usp=sharing
+- created table where information is collected and which is updated in real time
+   https://docs.google.com/spreadsheets/d/1HU4OEF4LqEn8PGmflZ0I4lBXzLVQCeP0XqmU02JkrhU/edit?usp=sharing
+- created interactive dashboard where the main metrics are presented
+   https://datastudio.google.com/reporting/6a038f9c-2c8b-4ee6-a936-8effd7792b46
+- performed analys of city's DB using Python and SQL
+   https://colab.research.google.com/drive/1iK1IUxy8tAKHjELCKjE-9rzO0Nn2tCrz?usp=sharing
